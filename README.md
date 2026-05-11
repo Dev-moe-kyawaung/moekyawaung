@@ -3,8 +3,7 @@
   
   Touch my portfolio websites -- https://dev-moe-kyawaung.github.io/moekyawaung/📱📱  
    
-    
-    📱📱https://dev-moe-kyawaung.github.io/moekyawaung/📱📱
+ 📱📱https://dev-moe-kyawaung.github.io/moekyawaung/📱📱
 
 <div align="center">
 
@@ -20,7 +19,6 @@
 <br/>
 ![Visitor Count](https://komarev.com/ghpvc/?username=moekyawaungmka2026-cyber&color=00ff41&style=for-the-badge&label=VISITORS)
 [![GitHub followers](https://img.shields.io/github/followers/moekyawaungmka2026-cyber?label=FOLLOWERS&style=for-the-badge&color=00ff41&labelColor=0d0d0d)](https://github.com/moekyawaungmka2026-cyber)
-
 </div>
 
 ---
